@@ -1,0 +1,22 @@
+{"products":  [
+    {
+      "id": 1,
+      "name": "camiseta",
+      "price": 600
+    },
+    {
+      "id": 2,
+      "name": "short-fut",
+      "price": 400
+    },
+    {
+      "id": 3,
+      "name": "guantes-fut",
+      "price": 900
+    },
+    {
+      "id": 4,
+      "name": "Botines-fut",
+      "price": 1200
+    }
+  ] }
